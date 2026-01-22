@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Cheung</h1>
 <h3 align="center">Computer Science Major at Binghamton University</h3>
 
-- Goals **Landing a job in the cybersecurity field**
+- Goals: **Landing a job in the cybersecurity field**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
